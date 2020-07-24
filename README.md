@@ -1,0 +1,2 @@
+# trigga
+a ponzi website
